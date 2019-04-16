@@ -1,2 +1,0 @@
-# junhytes.github.io
-web
